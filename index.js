@@ -11,3 +11,5 @@ function Driver(name, age, experience){
   this.age = age,
   this.experience = experience
 }
+
+let allison = new Driver ("Allison", "16 years", "2 years")
