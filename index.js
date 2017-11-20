@@ -4,4 +4,4 @@ function scooter(year, color, model){
   this.model = model
 }
 
-new scooter(2015, "red", "swoosh");
+let samson = new scooter(2015, "red", "swoosh");
